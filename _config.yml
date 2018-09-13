@@ -85,7 +85,25 @@ exclude:
   - CNAME
   
   
-  { background-color:red;
+  body {
+      background-color:red;
   
   }
+  
+  h1 {
+     color: white;
+     text-align:left;
+     
+  ]
+  
+  p {
+      font-family: arial;
+      font-size: 20px
+      
+  }
+  
+  
+  
+  
+  
           
